@@ -7,6 +7,8 @@ Tweak developers should adjust the minimum iOS version to 14 in the theos makefi
 
 **Only tested on iPhone 12 running iOS 14.5.1. Kernel struct offsets may not be accurate on other devices or versions.**
 
+Please report issues at https://github.com/happyjuniorman/fugu14-fusion/issues/
+
 # Credit
 
 - Fugu 14   
