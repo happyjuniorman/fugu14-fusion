@@ -9,8 +9,16 @@ Tweak developers should adjust the minimum iOS version to 14 in the theos makefi
 
 Please report issues at https://github.com/happyjuniorman/fugu14-fusion/issues/
 
+# Issues
+
+Please report issues at https://github.com/happyjuniorman/fugu14-fusion/issues/
+
 # Credit
 
 - Fugu 14   
 - Fugu 15   
 - Dopamine
+
+# License
+
+fugu14-fusion is licensed under the GNU GPLv2
